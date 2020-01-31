@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ieleishiex.stevechallis.com/sitemap.xml
